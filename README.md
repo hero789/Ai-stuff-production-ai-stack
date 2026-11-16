@@ -1,4 +1,4 @@
-# The Production AI Stack
+# RAG The Production AI Stack
 
 **An opinionated map of what actually runs in production. Every pick comes from systems I have shipped or audited, with the why, the when-not, and the traps. No hype.**
 
